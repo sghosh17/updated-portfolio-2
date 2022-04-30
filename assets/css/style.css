@@ -129,6 +129,15 @@ footer {
   padding: 10px;
 }
 
+.section-img-50 p {
+  padding: 20px;
+  background: #80d0d0;
+  color: #303335;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 0px;
+}
+
 .center-header {
   text-align: center;
 }
@@ -137,6 +146,7 @@ footer {
 .section-img-50 img {
   width: 100%;
   border: 4px solid #80d0d0;
+  height: 200px;
 }
 
 .section-img header,
