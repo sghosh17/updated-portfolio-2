@@ -8,7 +8,7 @@ This project involves creating a portfolio web page using the HTML and CSS eleme
 
 * Created an empty section with a background image and sub title
 
-* Created sub sections for About Me, Work and Contact Me
+* Created sub sections for About Me, Work and Contact Me. The About Me section has my latest CV attached.
 
 * Each nav link goes to the relevant section
 
